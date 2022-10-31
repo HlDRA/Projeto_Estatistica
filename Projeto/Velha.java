@@ -68,7 +68,7 @@ public class Velha {
         int empates = 0;
 
         //definir número de partidas que serão jogadas
-        for (int partidas = 0; partidas < 10000000; partidas++) {
+        for (int partidas = 0; partidas < 100000; partidas++) {
 
             //declarações iniciais
             int jogadas = 0;
